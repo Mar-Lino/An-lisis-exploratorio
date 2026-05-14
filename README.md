@@ -29,6 +29,7 @@ Las cancelaciones se concentraron en reservas con menos de 30 días de anticipac
 Los días con mayor número de cancelaciones fueron lunes y sábado.
 
 🚀 Próximos pasos
+
 Implementar un modelo predictivo de cancelaciones para ajustar tarifas en tiempo real.
 Evaluar estrategias de sobre-reserva en temporada alta.
 Diseñar paquetes y descuentos para fines de semana en los que se incluya el día lunes (día de mayor cancelación)
